@@ -71,6 +71,7 @@ This project focuses on developing an automated system to summarize mental healt
 - Performs data cleaning (e.g., removing nulls, filtering text).
 - Tokenizes or formats the data as needed.
 - Saves the processed data for use in training.
+  
 ![image](images/DATA2.png)
 
 ### `T5_Large.ipynb`
