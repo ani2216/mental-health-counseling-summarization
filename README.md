@@ -32,7 +32,7 @@ This project focuses on developing an automated system to summarize mental healt
 ---
 
 ## Dataset Structure
-![image](https://github.com/user-attachments/assets/214ca714-607f-4955-9d64-745ecf80c315)
+![image](images/DATA.png)
 
 ## ⚙️ Requirements
 
