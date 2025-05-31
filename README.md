@@ -2,6 +2,11 @@
 
 Mental health counselling summarization
 
+# Introduction
+This project focuses on developing an automated system to summarize mental health counseling dialogues, helping clinicians by condensing lengthy therapy sessions into clear, actionable summaries. Leveraging sequence-to-sequence models like T5-base, T5-large, and instruction-aware LLM MentaLLaMA, along with domain-specific preprocessing (e.g., speaker tagging), we aim to capture the nuances of therapeutic conversations efficiently. Using Parameter-Efficient Fine-Tuning methods like QLoRA, the project balances clinical utility and computational feasibility. Initial results with T5-base are promising, with ongoing improvements expected from larger models and specialized techniques to better support mental health professionals in documentation and care.
+
+
+
 1. **`preprocess.ipynb`** – Handles data loading and preprocessing tasks.
 2. **`T5_Large.ipynb`** – Fine-tunes a T5-Large model on the processed data.
 
@@ -25,6 +30,9 @@ Mental health counselling summarization
 - Optionally saves the trained model.
 
 ---
+
+## Dataset Structure
+![image](https://github.com/user-attachments/assets/214ca714-607f-4955-9d64-745ecf80c315)
 
 ## ⚙️ Requirements
 
