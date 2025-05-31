@@ -93,6 +93,7 @@ The training process completed successfully in approximately
  • Runtime: 3m 54s
  • Samples/sec: 1.68
  • Steps/sec: 0.205
+ 
  ![image](images/DATA4.png)
 
  ## Saved Model
